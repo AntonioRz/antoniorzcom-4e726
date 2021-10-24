@@ -23,7 +23,7 @@ sections:
         default_value: Please select
         options:
           - Colaboración
-          - Sponsorship
+          - Duda general
           - Other
       - input_type: textarea
         name: message
