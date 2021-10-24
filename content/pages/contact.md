@@ -24,7 +24,7 @@ sections:
         options:
           - Colaboración
           - Duda general
-          - Other
+          - Otro
       - input_type: textarea
         name: message
         label: Message
