@@ -104,7 +104,7 @@
             {
                 "type": "footer_form",
                 "title": "Suscríbete",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Mantente infromado de nuevas publicaciones.\n",
                 "form_id": "subscribeForm",
                 "hide_labels": true,
                 "form_fields": [
