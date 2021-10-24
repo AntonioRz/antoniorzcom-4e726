@@ -35,7 +35,7 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
-    hide_labels: true
+    hide_labels: false
 seo:
   title: Contact
   description: This is the contact page
