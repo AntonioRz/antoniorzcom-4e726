@@ -42,7 +42,8 @@
                 "no_follow": false
             }
         ],
-        "logo_img_alt": "Antonio Rz"
+        "logo_img_alt": "Antonio Rz",
+        "logo_img": "/images/jpg-01-0b7f46b8.jpg"
     },
     "footer": {
         "sections": [
