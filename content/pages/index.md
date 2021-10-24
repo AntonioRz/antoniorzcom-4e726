@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Antonio Rz
 sections:
   - section_id: hero
     type: section_hero
