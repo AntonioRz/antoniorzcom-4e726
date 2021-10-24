@@ -1,8 +1,6 @@
 ---
 title: Sobre mí
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Una breve descripción de mí persona
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
