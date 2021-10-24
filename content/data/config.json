@@ -2,7 +2,7 @@
     "title": "Azimuth",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "cyan",
     "header": {
         "has_nav": true,
         "nav_links": [
