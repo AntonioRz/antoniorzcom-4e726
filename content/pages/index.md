@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
+    image: /images/hero.png
   - section_id: features
     type: section_features
     background: gray
