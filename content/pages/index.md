@@ -12,7 +12,7 @@ sections:
       - label: Quiero saber cómo
         url: /features
         style: primary
-    image: /images/icono1.png
+    image: /images/pexels-andrea-piacquadio-3823489.jpg
   - section_id: features
     type: section_features
     background: gray
