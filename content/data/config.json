@@ -41,8 +41,7 @@
                 "type": "footer_text",
                 "image": "/images/png-01_2-2c968d8d.png",
                 "image_url": "/",
-                "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "image_alt": "Footer logo"
             },
             {
                 "type": "footer_nav",
