@@ -6,7 +6,7 @@ sections:
     background: gray
     title: Contacto
     content: |
-      ¡Dime como puedo ayudarte!
+      ###### ¡Dime como puedo ayudarte!
     form_id: contactForm
     form_fields:
       - input_type: text
