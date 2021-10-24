@@ -9,7 +9,7 @@ sections:
       Aprende como tú también puedes ejecutar acciones sencillas para proteger
       tu información
     actions:
-      - label: Quiero saber cómo
+      - label: Quiero aprender cómo
         url: /features
         style: primary
     image: /images/pexels-andrea-piacquadio-3823489.jpg
