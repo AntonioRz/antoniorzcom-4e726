@@ -12,7 +12,6 @@ sections:
       - label: Quiero saber cómo
         url: /features
         style: primary
-    image: /images/Icono1.png
   - section_id: features
     type: section_features
     background: gray
