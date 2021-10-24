@@ -9,7 +9,7 @@ sections:
       Aprende como tú también puedes ejecutar acciones sencillas para proteger
       tu información
     actions:
-      - label: Learn More
+      - label: Quiero saber cómo
         url: /features
         style: primary
     image: /images/hero.png
