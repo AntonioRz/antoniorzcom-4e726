@@ -32,7 +32,8 @@
                 "style": "primary"
             }
         ],
-        "logo_img": "/images/png-01-ff2370b3.png"
+        "logo_img": "/images/png-01-ff2370b3.png",
+        "logo_img_alt": "Antonio Rz"
     },
     "footer": {
         "sections": [
