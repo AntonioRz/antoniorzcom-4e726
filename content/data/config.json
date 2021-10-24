@@ -30,6 +30,16 @@
                 "label": "Sign Up",
                 "url": "/signup",
                 "style": "primary"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "logo_img": "/images/png-01-ff2370b3.png",
