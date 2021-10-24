@@ -31,7 +31,7 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          Entiendo que este formulario recopila información personal para que
+          Entiendo que este formulario recopila información personal para que yo
           pueda ser contactado
         is_required: true
     submit_label: Send Message
