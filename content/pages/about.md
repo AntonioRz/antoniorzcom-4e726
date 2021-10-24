@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-subtitle: Una breve descripción de mí persona
+subtitle: Una breve descripción de mi persona
 image: images/about.jpg
 image_alt: Team members in a conference room
 seo:
