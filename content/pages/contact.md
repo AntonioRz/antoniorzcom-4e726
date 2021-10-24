@@ -30,9 +30,7 @@ sections:
         label: Mensaje
       - input_type: checkbox
         name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+        label: 'Entiendo que este formulario '
         is_required: true
     submit_label: Send Message
     hide_labels: false
