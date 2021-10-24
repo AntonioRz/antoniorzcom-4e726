@@ -16,7 +16,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Suscríbete para estar al tanto de nuevos consejos de seguridad informática
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Serás notificado por correo cada que se suba un nuevo artículo
     actions:
       - label: Get Started
         url: /signup
