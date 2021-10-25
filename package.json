@@ -1,6 +1,6 @@
 {
-  "name": "azimuth-nextjs",
-  "description": "A Stackbit Azimuth theme built with Next.js",
+  "name": "antoniorz.com",
+  "description": "A simple blog",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -24,6 +24,7 @@
     "react-helmet": "^6.1.0",
     "react-html-parser": "^2.0.2",
     "react-script-tag": "^1.1.2",
+    "sass": "^1.43.3",
     "sourcebit": "^0.11.0",
     "sourcebit-source-filesystem": "^0.1.3",
     "sourcebit-target-next": "^0.6.2"
