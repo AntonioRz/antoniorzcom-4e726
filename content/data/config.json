@@ -1,55 +1,55 @@
 {
+
     "title": "Antonio Ruiz",
     "path_prefix": "/",
     "base_font": "nunito-sans",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Inicio",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Sign Up",
+                "label": "Suscríbete",
                 "url": "/signup",
                 "style": "primary"
+            },
+            {
+                "label": "Conóceme",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false
             }
-        ]
+        ],
+        "logo_img_alt": "Antonio Rz",
+        "logo_img": "/images/png-01_2.png"
     },
     "footer": {
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "/images/png-01_2-2c968d8d.png",
                 "image_url": "/",
-                "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "image_alt": "Footer logo"
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "AntonioRz",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Conóceme",
                         "url": "/about",
                         "style": "link"
                     },
@@ -59,12 +59,12 @@
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
+                        "label": "Suscríbete",
                         "url": "/signup",
                         "style": "link"
                     },
                     {
-                        "label": "Contact",
+                        "label": "Contacto",
                         "url": "/contact",
                         "style": "link"
                     }
@@ -72,11 +72,11 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Community",
+                "title": "Sígueme en Redes Sociales",
                 "nav_links": [
                     {
                         "label": "Twitter",
-                        "url": "https://twitter.com/",
+                        "url": "https://twitter.com/soyantoniorz",
                         "style": "link",
                         "has_icon": true,
                         "icon": "twitter",
@@ -84,26 +84,28 @@
                     },
                     {
                         "label": "LinkedIn",
-                        "url": "https://www.linkedin.com/",
+                        "url": "https://www.linkedin.com/in/soyantoniorz",
                         "style": "link",
                         "has_icon": true,
                         "icon": "linkedin",
                         "icon_position": "left"
                     },
                     {
-                        "label": "GitHub",
-                        "url": "https://github.com/",
+                        "label": "Instagram",
+                        "url": "https://www.instagram.com/soyantoniorz/",
                         "style": "link",
                         "has_icon": true,
-                        "icon": "github",
-                        "icon_position": "left"
+                        "icon": "instagram",
+                        "icon_position": "left",
+                        "new_window": false,
+                        "no_follow": false
                     }
                 ]
             },
             {
                 "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
+                "title": "Suscríbete",
+                "content": "Mantente infromado de nuevas publicaciones.\n",
                 "form_id": "subscribeForm",
                 "hide_labels": true,
                 "form_fields": [
@@ -115,7 +117,7 @@
                         "is_required": true
                     }
                 ],
-                "submit_label": "Subscribe"
+                "submit_label": "Suscríbete"
             }
         ],
         "has_nav": true,
@@ -132,5 +134,6 @@
             }
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
-    }
+    },
+    "domain": "https://antoniorzcom-4e726.netlify.app"
 }

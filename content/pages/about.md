@@ -1,9 +1,7 @@
 ---
-title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
-image: images/about.jpg
+title: Sobre mí
+subtitle: Una breve descripción de mi persona
+image: /images/icono1-de1c2d62.png
 image_alt: Team members in a conference room
 seo:
   title: About Us
