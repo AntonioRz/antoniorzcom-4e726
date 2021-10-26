@@ -1,5 +1,4 @@
 {
-
     "title": "Antonio Ruiz",
     "path_prefix": "/",
     "base_font": "nunito-sans",
@@ -24,7 +23,7 @@
             },
             {
                 "label": "Conóceme",
-                "url": "lorem-ipsum",
+                "url": "about",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
