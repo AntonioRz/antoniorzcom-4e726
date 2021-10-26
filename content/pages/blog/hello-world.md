@@ -1,7 +1,7 @@
 ---
 title: Hello World
 excerpt: >-
-  Bienvenifos a mi nuevo blog
+  Bienvenidos a mi nuevo blog
 author: content/data/authors/jane-doe.yaml
 date: '2021-10-24'
 thumb_image: images/11_thumb.jpg
