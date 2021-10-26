@@ -4,16 +4,14 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    title: Contacto
+    content: |
+      ###### ¡Dime como puedo ayudarte!
     form_id: contactForm
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Nombre
         is_required: true
       - input_type: email
         name: email
@@ -21,22 +19,23 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
-        default_value: Please select
+        label: Asunto
+        default_value: Selecciona una categoría
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Colaboración
+          - Duda general
+          - Otro
       - input_type: textarea
         name: message
-        label: Message
+        label: Mensaje
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que este formulario recopila información personal para que yo
+          pueda ser contactado
         is_required: true
     submit_label: Send Message
+    hide_labels: false
 seo:
   title: Contact
   description: This is the contact page
