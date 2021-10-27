@@ -10,7 +10,7 @@ sections:
       tus datos en Internet
     actions:
       - label: Quiero aprender cómo
-        url: /features
+        url: /blog
         style: primary
     image: /images/pexels-andrea-piacquadio-3823489.jpg
   - section_id: call-to-action

@@ -54,11 +54,6 @@
                         "style": "link"
                     },
                     {
-                        "label": "Suscríbete",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
                         "label": "Contacto",
                         "url": "/contact",
                         "style": "link"

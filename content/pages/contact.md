@@ -24,6 +24,7 @@ sections:
         options:
           - Colaboración
           - Duda general
+          - Bug en la página
           - Otro
       - input_type: textarea
         name: message
@@ -34,7 +35,7 @@ sections:
           Entiendo que este formulario recopila información personal para que yo
           pueda ser contactado
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
     hide_labels: false
 seo:
   title: Contact

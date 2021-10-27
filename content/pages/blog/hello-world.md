@@ -1,11 +1,11 @@
 ---
 title: ¿Qué carajos es la seguridad informática?
 excerpt: >-
-  Bienvenidos a la primer entrada de mi blog!
+  Aprende de manera sencilla que es la seguridad informática y su importancia en tu vida diaria
 author: content/data/authors/antonio-ruiz.yaml
 date: '2021-10-26'
 thumb_image: images/blog1.jpg
-thumb_image_alt: Hello this way printed on a red metal gate
+thumb_image_alt: Glasses and a computer
 image: images/blog1.jpg
 seo:
   title: ¿Qué carajos es la seguridad informática?
