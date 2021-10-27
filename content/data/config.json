@@ -34,13 +34,13 @@
             }
         ],
         "logo_img_alt": "Antonio Rz",
-        "logo_img": "/images/png-01_2.png"
+        "logo_img": "/images/logo2.png"
     },
     "footer": {
         "sections": [
             {
                 "type": "footer_text",
-                "image": "/images/png-01_2-2c968d8d.png",
+                "image": "/images/logo1.png",
                 "image_url": "/",
                 "image_alt": "Footer logo"
             },
