@@ -26,19 +26,17 @@ sections:
     background: gray
     title: Últimos artículos publicados
 seo:
-  title: Antonio Rz
-  description: Aprende cómo tú también puedes ejecutar acciones sencillas para proteger
-      tus datos en Internet
+  title: Stackbit Azimuth Theme
+  description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Antonio Rz
+      value: Stackbit Azimuth Theme
       keyName: property
     - name: 'og:description'
-      value: Aprende cómo tú también puedes ejecutar acciones sencillas para proteger
-      tus datos en Internet
+      value: The preview of the Azimuth theme
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -47,9 +45,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Antonio Rz
+      value: Stackbit Azimuth Theme
     - name: 'twitter:description'
-      value: Aprende cómo tú también puedes ejecutar acciones sencillas para proteger
+      value: The preview of the Azimuth theme
       tus datos en Internet
     - name: 'twitter:image'
       value: images/hero.png
