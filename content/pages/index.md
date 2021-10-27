@@ -6,8 +6,8 @@ sections:
     image_alt: App preview
     title: Todos podemos hacer un Internet más seguro
     content: >
-      Aprende como tú también puedes ejecutar acciones sencillas para proteger
-      tu información
+      Aprende cómo tú también puedes ejecutar acciones sencillas para proteger
+      tus datos en Internet
     actions:
       - label: Quiero aprender cómo
         url: /features
@@ -15,12 +15,12 @@ sections:
     image: /images/pexels-andrea-piacquadio-3823489.jpg
   - section_id: call-to-action
     type: section_cta
-    title: Suscríbete para estar al tanto de nuevos consejos de seguridad informática
-    subtitle: Serás notificado por correo cada que se suba un nuevo artículo
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
+#    title: Suscríbete para estar al tanto de nuevos consejos de seguridad informática
+#    subtitle: Serás notificado por correo cada que se suba un nuevo artículo
+#    actions:
+#      - label: Get Started
+#        url: /signup
+#        style: primary
   - section_id: recent-posts
     type: section_posts
     background: gray
