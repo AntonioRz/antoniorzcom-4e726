@@ -52,7 +52,7 @@ La seguridad informática va más allá de un antivirus o el firewall de Windows
 
 La seguridad informática inicia desde que somos conscientes de la importancia de nuestros datos. La seguridad informática es tener cuidado con los permisos que otorgamos a las aplicaciones, es ser cuidadoso de dónde ponemos los datos de nuestras tarjetas de crédito, es saber identificar un e-mail o sitio Web falso, es crear contraseñas seguras, es actualizar constantemente nuestros equipos, es no conectarnos a redes públicas, es no instalar aplicaciones de sitios que no sean tiendas de aplicaciones oficiales, etc. Esas pequeñas acciones nos ayudarán a evitar algún "hackeo" a nuestra privacidad.
 
-Como ves, estás sencillas acciones nos ayudarán a mejorar la seguridad de nuestra información. No necesitamos tener una carrera universitaria ni ser unos eruditos para seguirlas. Todos podemos hacer de Internet un lugar más seguro.
+Como ves, estas sencillas acciones nos ayudarán a mejorar la seguridad de nuestra información. No necesitamos tener una carrera universitaria ni ser unos eruditos para seguirlas. Todos podemos hacer de Internet un lugar más seguro.
 Si dejamos de llamar "hackeo" a todo lo que no hacemos por ignorancia, tendremos una mejor cultura para salvaguardar nuestra información.
 
 Te invito a que me sigas en mis redes sociales para que estés informado de cómo puedes ayudar tú a que Internet sea un mejor lugar para todos.
